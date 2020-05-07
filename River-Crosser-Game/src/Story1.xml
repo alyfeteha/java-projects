@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Crossers>
+  <LeftCrossers>
+    <Carnivore>Carnivore</Carnivore>
+    <Plant>Plant</Plant>
+  </LeftCrossers>
+  <OnBoat />
+  <CrosserRight>
+    <Farmer>Farmer</Farmer>
+    <Herbivore>Herbivore</Herbivore>
+  </CrosserRight>
+  <Boat>
+    <BoatPosition>0</BoatPosition>
+  </Boat>
+</Crossers>
